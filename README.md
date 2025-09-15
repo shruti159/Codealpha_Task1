@@ -17,10 +17,6 @@ This project demonstrates front-end development concepts like styling, animation
 - CSS  
 - JavaScript  
 
-## 📸 Demo
-*(Add screenshots here or a short GIF of your gallery)*  
+ 
 
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/interactive-image-gallery.git
+
